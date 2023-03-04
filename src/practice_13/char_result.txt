@@ -1,0 +1,3 @@
+product 1 : Coca, 12dh, casa
+product 2 : Pepsi, 6dh, Rabat
+product 3 : Hawai, 8dh, sale
